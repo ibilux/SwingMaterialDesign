@@ -1,7 +1,5 @@
 package com.hq.swingmaterialdesign.materialdesign.animation;
 
-import java.util.List;
-
 public interface AnimationListener {
 
     public void onStart();
